@@ -8,4 +8,9 @@ class Main {
 		System out (“This is add method for 3 params”);
 		return a+b;
 	}
+
+	public int add(int a, int b, int c, int d) {
+		System out (“This is add method for 4 params”);
+		return a+b+c+d;
+	}
 }
