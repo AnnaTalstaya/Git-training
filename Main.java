@@ -1,5 +1,6 @@
 class Main {
 	public int add(int a, int b) {
+		System out (“This is add method”);
 		System out (“This is add for 2 params method”);
 		return a+b;
 	}
